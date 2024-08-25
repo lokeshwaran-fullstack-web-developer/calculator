@@ -1,4 +1,4 @@
-Loki Calculator
+
 Loki Calculator is a web-based calculator application that allows users to perform basic arithmetic operations. The project is implemented using HTML, CSS, and JavaScript.
 
 Features
